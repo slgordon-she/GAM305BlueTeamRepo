@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap"
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Char.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/GAM305Mode.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Contr.uasset"
 			]
 		}
 	]
