@@ -8,7 +8,11 @@
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Char.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/GAM305Mode.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Contr.uasset"
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Contr.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Button_M.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Button_MAT.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door_MAT.uasset"
 			]
 		}
 	]
