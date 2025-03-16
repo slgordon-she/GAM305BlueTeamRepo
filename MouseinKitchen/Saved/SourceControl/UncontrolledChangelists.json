@@ -5,19 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Char.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/GAM305Mode.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Contr.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Player/Player_Char.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Button_M.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Button_MAT.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door_MAT.uasset"
-=======
-				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap"
->>>>>>> e2d069039815a09b646ee7ca29e4e959faaee83e
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door.uasset"
 			]
 		}
 	]
