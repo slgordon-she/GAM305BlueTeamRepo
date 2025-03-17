@@ -13,7 +13,20 @@
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Button_MAT.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door_MAT.uasset",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+<<<<<<< HEAD
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap"
+=======
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_176B589B.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_267EA100.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_513F9C15.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_531B1CA1.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_752CB561.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_763ACDCD.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_89C2B736.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_95B55151.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap"
+>>>>>>> fe62d6579cafdb9ee0b88bbf26bcebd86d534c0c
 			]
 		}
 	]
