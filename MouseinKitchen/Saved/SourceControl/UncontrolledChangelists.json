@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_176B589B.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_89C2B736.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_9B1598B0.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_CF9FE174.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_EED41C90.uasset",
 				"B:/BlueTeamUE5/GAM305BlueTeamRepo/MouseinKitchen/Content/StationaryObjects/BP_Spike.uasset",
 				"B:/BlueTeamUE5/GAM305BlueTeamRepo/MouseinKitchen/Content/StationaryObjects/BP_NewsPaper.uasset",
 				"B:/BlueTeamUE5/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/TestMap.umap",
