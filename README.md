@@ -31,7 +31,7 @@ Spike buttons
 
 Stationary Obstacles: 
 
-Button and Door link (Mesh being key) 
+Door link with overlap key
 
 obstacle drop 
 
