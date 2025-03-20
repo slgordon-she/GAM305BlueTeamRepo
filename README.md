@@ -33,7 +33,7 @@ Stationary Obstacles:
 
 Button and Door link (Mesh being key) 
 
-Pitt fall 
+obstacle drop 
 
 Schedule and Timeline: File added to GitHub repository 
 
