@@ -38,7 +38,8 @@ obstacle drop
 Schedule and Timeline: File added to GitHub repository 
 
 
-![Timeline](https://github.com/user-attachments/assets/a4d4d0ba-315d-4331-9fe0-3aaf202e0e38)
+![Timeline (1)](https://github.com/user-attachments/assets/94fdae8a-e41a-4f16-98e3-115a1ea08fee)
+
 
 
 
