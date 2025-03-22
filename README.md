@@ -65,32 +65,32 @@ All tests will be done on Friday or Saturday and during building
 
 How the testing will be done: 
 
-Movements: Pass 
+Movements: (Pass) 
 • The movements will be tested based on how fast they respond this includes making sure they respond to the keyboard, when jumping making sure the player lands in the game, and check for glitching  
 
-Item Pick up and drop: Pass/Fail 
+Item Pick up and drop: (Pass/Fail) 
 • The item pick and drop will be tested by picking up the item and walking a certain distance to make sure the items is still being held then dropping it  
 
-Doors: Pass 
+Doors: (Pass) 
 • Opening and closing the doors repeatedly  
 
 Weapons: 
 Weapons respond to the players keyboard command and causes damage to AI enemy, and big boss 
 
-Automatic Turret: Pass /Fail 
+Automatic Turret: (Pass /Fail) 
 • Automatic turrets will be tested to make sure it causes damage, follows the player, and the player will be able hide behind walls and the turret won't shoot through the wall. 
 
-Map: Pass/Fail 
+Map: (Pass/Fail) 
  • The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
 • All meshes and structures used in the map are well-lit for the player and there are no gaps in between structures. 
 
-Button: Pass/Fail 
+Button: (Pass/Fail) 
 • The button will be tested by placing a mesh on top ensuring the button goes down and it unlocks the doors, this process is repeated 
 
-AI Enemy: Pass/Fail 
+AI Enemy: (Pass/Fail) 
 • AI enemy response to game play, insuring it follows the player, and its weapon works 
 
-Game Completion: Pass/Fail 
+Game Completion: (Pass/Fail) 
 • The player can successfully complete the game after beating the big boss 
 
 The test plan will be updated weekly to confirm if the functions pass or fail. Any new testing done will be updated in the “Readme” files. All bugs will be kept in a document for reference in case the bug reappears. The bugs will be kept by the date the bug was found, what was the bug the issues it was causing to the game, and how it was solved including the date. The bugs document will be kept in an Excel sheet which then will be added to the repository. 
