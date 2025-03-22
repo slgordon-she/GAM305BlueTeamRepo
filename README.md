@@ -38,7 +38,8 @@ obstacle drop
 Schedule and Timeline: File added to GitHub repository 
 
 
-![Screenshot 2025-03-14 184930](https://github.com/user-attachments/assets/a703757d-38d0-4251-acac-a387c44c165f)
+![Timeline](https://github.com/user-attachments/assets/a4d4d0ba-315d-4331-9fe0-3aaf202e0e38)
+
 
 
   Module Three Project Log - Team Development: QA and Testing Plan.
