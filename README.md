@@ -83,9 +83,7 @@ Movements: (Pass)
 
 Item Pick up and drop: (Pass/Fail) 
 
-• The item pick and drop will be tested by picking up the item and walking a certain distance to make sure the items is still being held then dropping it  
-
-•Health Mesh dissapears after touching and adds to player health
+•Health Mesh dissapears after touching and adds to player health by 10% increments
 
 Doors: (Pass)
 
@@ -93,7 +91,8 @@ Doors: (Pass)
 
 • Doors open when link to a button
 
-Weapons: 
+Weapons: (Pass/Fail)
+
 • Weapons respond to the players keyboard command and causes damage to AI enemy, and big boss 
 
 • Weapons for AI mice cause damage to player in 10% increments
@@ -102,17 +101,18 @@ Automatic Turret: (Pass /Fail)
 
 • Automatic turrets will be tested to make sure it causes damage, follows the player, and the player will be able hide behind walls and the turret won't shoot through the wall. 
 
-• Automatic Turret causes player damage when hitten with turret projectile
+• Automatic Turret causes player damage when hit with turret projectile
 
 Map: (Pass/Fail) 
 
- • The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
+• The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
  
 • All meshes and structures used in the map are well-lit for the player and there are no gaps in between structures. 
 
 •  The Progress bar shows on player screen, it also is accurate with players/AI mice health
 
 • The spikes and and cheese roll cause damage to player when making contact
+
 
 Button: (Pass/Fail)
 
