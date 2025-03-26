@@ -68,8 +68,8 @@ All tests will be done on Friday or Saturday and during building
 How the testing will be done: 
 
 Game Mechanics
-•Test level for bugs and perfomance issues
-• Progression system works such as points, item unlocks
+•Test level for bugs and perfomance issues;
+• Progression system works such as points, item unlocks;
 • Verify difficulty for gameplay is as expected
 
 Movements: (Pass) 
