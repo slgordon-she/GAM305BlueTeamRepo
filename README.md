@@ -68,57 +68,88 @@ All tests will be done on Friday or Saturday and during building
 How the testing will be done: 
 
 Game Mechanics
-•Test level for bugs and perfomance issues;
-• Progression system works such as points, item unlocks;
+
+•Test level for bugs and perfomance issues
+
+• Progression system works such as points, item unlocks
+
 • Verify difficulty for gameplay is as expected
 
 Movements: (Pass) 
+
 • The movements will be tested based on how fast they respond this includes making sure they respond to the keyboard, when jumping making sure the player lands in the game, and check for glitching  
+
 •Testing for keyboard responses such as w to move foward, s to move backwards, a/d to move sides. The mouse controles the player camera view and the space bar is forjumping
 
 Item Pick up and drop: (Pass/Fail) 
+
 • The item pick and drop will be tested by picking up the item and walking a certain distance to make sure the items is still being held then dropping it  
+
 •Health Mesh dissapears after touching and adds to player health
 
-Doors: (Pass) 
+Doors: (Pass)
+
 • Opening and closing the doors repeatedly  
+
 • Doors open when link to a button
 
 Weapons: 
 • Weapons respond to the players keyboard command and causes damage to AI enemy, and big boss 
+
 • Weapons for AI mice cause damage to player in 10% increments
 
 Automatic Turret: (Pass /Fail) 
+
 • Automatic turrets will be tested to make sure it causes damage, follows the player, and the player will be able hide behind walls and the turret won't shoot through the wall. 
+
 • Automatic Turret causes player damage when hitten with turret projectile
 
 Map: (Pass/Fail) 
+
  • The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
+ 
 • All meshes and structures used in the map are well-lit for the player and there are no gaps in between structures. 
+
 •  The Progress bar shows on player screen, it also is accurate with players/AI mice health
+
 • The spikes and and cheese roll cause damage to player when making contact
-Button: (Pass/Fail) 
+
+Button: (Pass/Fail)
+
 • The button will be tested by placing a mesh on top ensuring the button goes down and it unlocks the doors, this process is repeated 
 
 AI Enemy: (Pass/Fail) 
+
 • AI enemy response to game play, insuring it follows the player, and its weapon works 
+
 • AI enemy reponse to player weapon and interaction
 
+
 Game Completion: (Pass/Fail) 
+
 • The player can successfully complete the game after beating the big boss 
 
 User Interface
+
 • To ensure all menu and buttons are functional 
+
 • test UI responsiveness on different screen sizes and resolutions
 
 Performance Testing
+
 • Monitor the frame rate under different conditions
+
 • Measure load times for levels and menus
+
 •Memory usage checking for memory leaks between game play testing
+
 • Connectivity is testing for lagging, disconnections, and stability
 
 Security Testing
+
 • Test for any vunerabilties such as exploitation
+
 • Data protection by ensuring is store securely and complies with regulations
+
 
 The test plan will be updated weekly to confirm if the functions pass or fail. Any new testing done will be updated in the “Readme” files. All bugs will be kept in a document for reference in case the bug reappears. The bugs will be kept by the date the bug was found, what was the bug the issues it was causing to the game, and how it was solved including the date. The bugs document will be kept in an Excel sheet which then will be added to the repository. 
