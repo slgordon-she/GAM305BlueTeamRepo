@@ -114,6 +114,7 @@ Map: (Pass/Fail)
 • The spikes and and cheese roll cause damage to player when making contact
 
 
+
 Button: (Pass/Fail)
 
 • The button will be tested by placing a mesh on top ensuring the button goes down and it unlocks the doors, this process is repeated 
@@ -124,6 +125,7 @@ AI Enemy: (Pass/Fail)
 
 • AI enemy reponse to player weapon and interaction
 
+• AI enemy respawns in map/ check for respawn time 
 
 Game Completion: (Pass/Fail) 
 
