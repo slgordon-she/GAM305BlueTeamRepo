@@ -129,13 +129,13 @@ Game Completion: (Pass/Fail)
 
 • The player can successfully complete the game after beating the big boss 
 
-User Interface
+User Interface: (Pass/Fail)
 
 • To ensure all menu and buttons are functional 
 
 • test UI responsiveness on different screen sizes and resolutions
 
-Performance Testing
+Performance Testing: (Pass Fail)
 
 • Monitor the frame rate under different conditions
 
@@ -145,7 +145,7 @@ Performance Testing
 
 • Connectivity is testing for lagging, disconnections, and stability
 
-Security Testing
+Security Testing: (Pass/Fail)
 
 • Test for any vunerabilties such as exploitation
 
