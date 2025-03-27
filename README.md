@@ -75,11 +75,15 @@ Game Mechanics
 
 • Verify difficulty for gameplay is as expected
 
+•Player respawns to player start point
+
 Movements: (Pass) 
 
 • The movements will be tested based on how fast they respond this includes making sure they respond to the keyboard, when jumping making sure the player lands in the game, and check for glitching  
 
-•Testing for keyboard responses such as w to move foward, s to move backwards, a/d to move sides. The mouse controles the player camera view and the space bar is forjumping
+•Testing for keyboard responses such as w to move foward, s to move backwards, a/d to move sides. The mouse controles the player camera view
+
+•The mouse for camera control, checking for any glitches
 
 Item Pick up and drop: (Pass/Fail) 
 
@@ -107,6 +111,8 @@ Automatic Turret: (Pass /Fail)
 
 • Automatic Turret causes player damage when hit with turret projectile
 
+•Turret projectile doesnt get stuck to map and destroys after being shot
+
 Map: (Pass/Fail) 
 
 • The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
@@ -116,6 +122,8 @@ Map: (Pass/Fail)
 •  The Progress bar shows on player screen, it also is accurate with players/AI mice health
 
 • The spikes and and cheese roll cause damage to player when making contact
+
+• The Mesh in the map will block player from getting in to certain parts in the map
 
 
 
