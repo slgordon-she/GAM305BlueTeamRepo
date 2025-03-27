@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/Player_W.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/AI/AI_W.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/AI/AIChar.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/AI/AIChar_Projectile.uasset",
+				"D:/TeamProject/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_0C2805FE.uasset",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_EED41C90.uasset",
