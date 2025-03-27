@@ -85,6 +85,10 @@ Item Pick up and drop: (Pass/Fail)
 
 •Health Mesh dissapears after touching and adds to player health by 10% increments
 
+• Cheese Key mesh can be picked up and player can carry mesh around map without it dropping
+
+• Cheese Key opens intented door 
+
 Doors: (Pass)
 
 • Opening and closing the doors repeatedly  
@@ -155,3 +159,9 @@ Security Testing: (Pass/Fail)
 
 
 The test plan will be updated weekly to confirm if the functions pass or fail. Any new testing done will be updated in the “Readme” files. All bugs will be kept in a document for reference in case the bug reappears. The bugs will be kept by the date the bug was found, what was the bug the issues it was causing to the game, and how it was solved including the date. The bugs document will be kept in an Excel sheet which then will be added to the repository. 
+
+Team Reflection 
+
+Testing the game resulted in most of the team functions working well and little issues were found in them. The problems found were missing functions in the components class such as damage. These bugs were identified by testing the game, this included making sure weapons, AI Mice, Cheese Wheel, and the Spikes in the map caused damage to the player. The solution was to go into an unreal engine and see what was missing in the functions in the class. Another solution to the bugs was using the debugging tool provided with an unreal engine. A good example is when we tested the AI Mice and realized the laser gun was not causing any damage to the player, the solution was that the “set health” function min and max were wrongly connected.  After all fixes are done in the game it's essential to retest the affected areas to ensure it works, also documenting all bugs and solutions for future reference. The documentation is also kept for analysis of patterns of bugs occurring frequently.    
+
+The reason for QA is to prevent any errors from occurring when building the game.  The goal is to understand the definition of quality in the game. When testing the game, we realized more testing needed to be done towards the game, so our testing documentation was updated with the test done. Finding the solutions to the problems when it came to developing the game became a lesson for the team.  The team learned to be more organized when it came to game files to provide more storage. The tools and techniques used for the game development were overly complex and it complicated communication. This was solved by making one application the source of communication, and it prevents extensive documentation. A methodology was chosen for the game development to ensure good tools and techniques to which all members agree. The team approached the initial analysis by understanding the game’s vision, mechanics, story, and overall design. The second step was to identify the key requirements to accomplish the aspects of the game, also taking into account the existing tools provided such as the game engine, project management, and form of communication. The next step was to provide a prototype and the testing documentation with a feedback loop to assess the defectiveness of the game and its solutions.   
