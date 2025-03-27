@@ -1,4 +1,7 @@
 Project Assignments Log
+
+Game Version: Unreal Engine 5.4
+
 Blue Team: 
 
 Ryan Kendall (Team Lead) 
