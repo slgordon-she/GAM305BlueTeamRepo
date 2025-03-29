@@ -1,8 +1,0 @@
-Mouse In Kitchen,,,,,
-Funtion/Description of Test,Pass/Fail,Bugs,Runtime Errors,Updates and Resolution,Notes:
-AI Mice,Fail  : 3/22/25                                                      Pass Updated: 3/25/25,The AI Mice gun doesnt cause damage to player,,The branch damage was added in to projectile ,
-Map,Fail  :3/22/25                                                    Pass Updated: 3/25/25,,Ramp is needed in order for cheese wheel to work,Ramp was added in to map now cheese wheel rolls down ramp towards player,
-Cheese Wheel,Fail  : 3/22/25                                                  Pass Updated: 3/27/25,The Cheese Wheel wont do any damage to player,,Damage causer was added in to the cheese wheel branch which cause 10% damage,
-Spikes,Fail : 3/22/25                                                      Pass Updated: 3/27/25,The Spikes in the map wont to any damge to player,,Damage causer was added in to the spikes wheel branch which cause 10% damage,
-Health and Damage,Fail :3/22/25                                                      Pass Updated: 3/25/25,,Health was dropping down by numbers making the screen confussing for the player,Health Widget was added in to the Player/AI Mice class this built a progress health bar for the player,
-,,,,,
