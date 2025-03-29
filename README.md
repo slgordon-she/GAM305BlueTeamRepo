@@ -1,6 +1,6 @@
 Project Assignments Log
 
-Mouse In Kitchen
+"Mouse In Kitchen"
 
 Game Version: Unreal Engine 5.3.2
 
