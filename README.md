@@ -72,7 +72,7 @@ All tests will be done on Friday or Saturday and during building
 
 How the testing will be done: 
 
-Game Mechanics
+Game Mechanics(Pass/Fail)
 
 •Test level for bugs and perfomance issues
 
@@ -104,13 +104,13 @@ Doors: (Pass)
 
 • Doors open when link to a button
 
-Weapons: (Pass/Fail)
+Weapons: (Pass)
 
 • Weapons respond to the players keyboard command and causes damage to AI enemy, and big boss 
 
 • Weapons for AI mice cause damage to player in 10% increments
 
-Automatic Turret: (Pass /Fail) 
+Automatic Turret: (Pass) 
 
 • Automatic turrets will be tested to make sure it causes damage, follows the player, and the player will be able hide behind walls and the turret won't shoot through the wall. 
 
@@ -129,6 +129,8 @@ Map: (Pass/Fail)
 • The spikes and and cheese roll cause damage to player when making contact
 
 • The Mesh in the map will block player from getting in to certain parts in the map
+
+• The Structures in the map have the intended color mesh 
 
 
 
@@ -154,7 +156,7 @@ User Interface: (Pass/Fail)
 
 • test UI responsiveness on different screen sizes and resolutions
 
-Performance Testing: (Pass Fail)
+Performance Testing: (Pass)
 
 • Monitor the frame rate under different conditions
 
@@ -164,7 +166,7 @@ Performance Testing: (Pass Fail)
 
 • Connectivity is testing for lagging, disconnections, and stability
 
-Security Testing: (Pass/Fail)
+Security Testing: (Pass)
 
 • Test for any vunerabilties such as exploitation
 
