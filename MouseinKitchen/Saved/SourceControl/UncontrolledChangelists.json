@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Pickup_M.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Health_Pickup.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/ThirdPerson/Blueprints/Player_projectile.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/ThirdPerson/Blueprints/Red_Projectile.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Cheese.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Assets/Door_M.uasset",
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_0C2805FE.uasset",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_EED41C90.uasset",
@@ -52,14 +60,9 @@
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/AI/AIChar.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Pickup_M.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/HealthBonus.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/HealthBonus_Pickup.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Health_Pickup.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/MASTER_pICKUP.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/ThirdPerson/Blueprints/Player_projectile.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/ThirdPerson/Blueprints/Red_Projectile.uasset"
+				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/MASTER_pICKUP.uasset"
 			]
 		}
 	]
