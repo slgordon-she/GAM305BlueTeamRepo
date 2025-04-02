@@ -173,9 +173,11 @@ Security Testing: (Pass)
 • Data protection by ensuring is store securely and complies with regulations
 
 
-The test plan will be updated weekly to confirm if the functions pass or fail. Any new testing done will be updated in the “Readme” files. All bugs will be kept in a document for reference in case the bug reappears. The bugs will be kept by the date the bug was found, what was the bug the issues it was causing to the game, and how it was solved including the date. The bugs document will be kept in an Excel sheet which then will be added to the repository. 
+The test plan will be updated weekly to confirm if the functions pass or fail. Any new testing done will be updated in the “Readme” files. All bugs will be kept in a document for reference in case the bug reappears. The bugs will be kept by the date the bug was found, what was the bug the issues it was causing to the game, and how it was solved including the date. The bugs document will be kept in an Excel sheet which then will be added to the repository.
 
-Team Reflection 
+
+4-2 Project Log : Team Reflection and Alpha Release
+
 
 Testing the game resulted in most of the team functions working well and little issues were found in them. The problems found were missing functions in the components class such as damage. These bugs were identified by testing the game, this included making sure weapons, AI Mice, Cheese Wheel, and the Spikes in the map caused damage to the player. The solution was to go into an unreal engine and see what was missing in the functions in the class. Another solution to the bugs was using the debugging tool provided with an unreal engine. A good example is when we tested the AI Mice and realized the laser gun was not causing any damage to the player, the solution was that the “set health” function min and max were wrongly connected.  After all fixes are done in the game it's essential to retest the affected areas to ensure it works, also documenting all bugs and solutions for future reference. The documentation is also kept for analysis of patterns of bugs occurring frequently.    
 
