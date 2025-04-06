@@ -72,7 +72,7 @@ All tests will be done on Friday or Saturday and during building
 
 How the testing will be done: 
 
-Game Mechanics(Pass/Fail)
+Game Mechanics(Pass)
 
 •Test level for bugs and perfomance issues
 
@@ -90,7 +90,7 @@ Movements: (Pass)
 
 •The mouse for camera control, checking for any glitches
 
-Item Pick up and drop: (Pass/Fail) 
+Item Pick up and drop: (Pass) 
 
 •Health Mesh dissapears after touching and adds to player health by 10% increments
 
@@ -118,7 +118,7 @@ Automatic Turret: (Pass)
 
 •Turret projectile doesnt get stuck to map and destroys after being shot
 
-Map: (Pass/Fail) 
+Map: (Pass) 
 
 • The puzzle will be tested to make sure they complete when following instructions, this includes any buttons use to open doors 
  
@@ -134,11 +134,11 @@ Map: (Pass/Fail)
 
 
 
-Button: (Pass/Fail)
+Button: (Pass)
 
 • The button will be tested by placing a mesh on top ensuring the button goes down and it unlocks the doors, this process is repeated 
 
-AI Enemy: (Pass/Fail) 
+AI Enemy: (Pass) 
 
 • AI enemy response to game play, insuring it follows the player, and its weapon works 
 
@@ -146,11 +146,11 @@ AI Enemy: (Pass/Fail)
 
 • AI enemy respawns in map/ check for respawn time 
 
-Game Completion: (Pass/Fail) 
+Game Completion: (Pass) 
 
 • The player can successfully complete the game after beating the big boss 
 
-User Interface: (Pass/Fail)
+User Interface: (Pass)
 
 • To ensure all menu and buttons are functional 
 
@@ -181,4 +181,11 @@ The test plan will be updated weekly to confirm if the functions pass or fail. A
 
 Testing the game resulted in most of the team functions working well and little issues were found in them. The problems found were missing functions in the components class such as damage. These bugs were identified by testing the game, this included making sure weapons, AI Mice, Cheese Wheel, and the Spikes in the map caused damage to the player. The solution was to go into an unreal engine and see what was missing in the functions in the class. Another solution to the bugs was using the debugging tool provided with an unreal engine. A good example is when we tested the AI Mice and realized the laser gun was not causing any damage to the player, the solution was that the “set health” function min and max were wrongly connected.  After all fixes are done in the game it's essential to retest the affected areas to ensure it works, also documenting all bugs and solutions for future reference. The documentation is also kept for analysis of patterns of bugs occurring frequently.    
 
-The reason for QA is to prevent any errors from occurring when building the game.  The goal is to understand the definition of quality in the game. When testing the game, we realized more testing needed to be done towards the game, so our testing documentation was updated with the test done. Finding the solutions to the problems when it came to developing the game became a lesson for the team.  The team learned to be more organized when it came to game files to provide more storage. The tools and techniques used for the game development were overly complex and it complicated communication. This was solved by making one application the source of communication, and it prevents extensive documentation. A methodology was chosen for the game development to ensure good tools and techniques to which all members agree. The team approached the initial analysis by understanding the game’s vision, mechanics, story, and overall design. The second step was to identify the key requirements to accomplish the aspects of the game, also taking into account the existing tools provided such as the game engine, project management, and form of communication. The next step was to provide a prototype and the testing documentation with a feedback loop to assess the defectiveness of the game and its solutions.   
+The reason for QA is to prevent any errors from occurring when building the game.  The goal is to understand the definition of quality in the game. When testing the game, we realized more testing needed to be done towards the game, so our testing documentation was updated with the test done. Finding the solutions to the problems when it came to developing the game became a lesson for the team.  The team learned to be more organized when it came to game files to provide more storage. The tools and techniques used for the game development were overly complex and it complicated communication. This was solved by making one application the source of communication, and it prevents extensive documentation. A methodology was chosen for the game development to ensure good tools and techniques to which all members agree. The team approached the initial analysis by understanding the game’s vision, mechanics, story, and overall design. The second step was to identify the key requirements to accomplish the aspects of the game, also taking into account the existing tools provided such as the game engine, project management, and form of communication. The next step was to provide a prototype and the testing documentation with a feedback loop to assess the defectiveness of the game and its solutions. 
+
+
+5-2 Project Log: Team Reflection and Beta Release 
+
+The plan created in Module Three is well-structured and the team has done a good job outlining the technical and programming requirements for the game QA and testing. The team felt that the overall development of the game went well. We identified key components and developed a cohesive plan for implementing the game features. The plan was broken into a manageable task and then assigned based on roles, the use of methodologies was one of the team's strengths and helped the team to respond and adapt to changes needed. One area that proved challenging in the plan is that it could be more detailed when it came to what is being tested in the map and its functions, this resulted in editing the plan the following week and making it more detailed which caused a delay in the testing.  The team has taken all the feedback from earlier stages into account, such as adding a menu to the game which is integrated into the beta stage.   
+
+To improve the collaboration and development process the team added an extra meeting to the week and implemented more frequent check-ins. The team also explored additional tools together when facing a problem, this taught new approaches, such as learning new commands in git bash and being able to fix deleted files. The tools being used in the project are being tested for effectiveness if the current ones are not helpful then they can try new approaches. A technique we added is to reduce the excessive focus of the visual gameplay and focus more on the game mechanics and functions. The beta stage will have all functions in the map completed, the beta stage has added a menu for the player to access the gameplay, instructions, credits, and controls. This will include the map to have its intended color meshes, the game play will be more enhanced since the map truly looked like a kitchen environment. This includes the development of the final boss being the cheese golem, this will increase the difficulty of the game since it's the final stage to beat the game.  A menu was added to help players start/end the game, instructions of the game, the controls, and the credits which includes everyone who was involved in the game development.  The project schedule reports that we are on track to meet the “Final Release” deadline. The game will be constantly testing to ensure we make any necessary adjustments to ensure we deliver a high-quality final game on schedule.  
