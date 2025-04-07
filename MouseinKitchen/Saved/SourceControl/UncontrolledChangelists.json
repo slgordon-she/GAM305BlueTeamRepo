@@ -7,6 +7,11 @@
 			"files": [
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_CF25799D.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Input/Actions/input_interact.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/interface/Interface_interact.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Assets/Door_M.uasset",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/CheeseObjects_CheesePile.uasset",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/SM_CheeseWheel.uasset",
