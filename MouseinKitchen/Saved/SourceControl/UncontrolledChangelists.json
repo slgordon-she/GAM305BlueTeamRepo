@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Pickup_M.uasset",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Maps/TestMap.umap",
 				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/Health_Pickup.uasset",
@@ -173,22 +174,15 @@
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/NewFont.uasset",
+=======
+>>>>>>> 05c9518a36cfb5d6d601809a39bfc69aa39af128
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/MainMenu_w.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/MainMenu.umap",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/cheese_fontdue.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/Limelight-Regular.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/MainMenu.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/MainMenuMode.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Menu/NewGameMode2.uasset",
-				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Blueprints/MainMenu.uasset",
-				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/KitchenTools_Spoon.uasset",
-				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/KitchenTools_KnifeB.uasset",
-				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/KitchenTools_KnifeA.uasset",
-				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/KitchenTools_Rolling_Pin.uasset",
-				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/Pan_Lid.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/HealthBonus.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/HealthBonus_Pickup.uasset",
-				"U:/UnrealProjects/GAM305BlueTeam/MouseinKitchen/Content/Pickups/MASTER_pICKUP.uasset"
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_CF25799D.uasset",
+				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
+				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/CheeseObjects_CheesePile.uasset",
+				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/SM_CheeseWheel.uasset",
+				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Objects/SM_CheesePile.uasset"
 			]
 		}
 	]
