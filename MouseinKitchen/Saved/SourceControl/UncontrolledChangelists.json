@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Assets/Door_M.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/StationaryObjects/BP_CheeseWheel.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Materials/bed.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_0B4FD07F.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_9DE66EA5.uasset",
+				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/_GENERATED/tweet/Box_E5BDCEB5.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/relaxing-guitar-loop-v5-245859.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/BackGround.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Button.uasset",
@@ -26,9 +33,6 @@
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Sounds/ouch-oof-hurt-sound-effect-262616.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Sounds/Hurt.uasset",
 				"D:/TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Sounds/walking-sound-effect-272246.uasset",
-				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap",
-				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/Assets/Door_M.uasset",
-				"C:/Users/tweet/Documents/Unreal Projects/BlueTeamGame/GAM305BlueTeamRepo/MouseinKitchen/Content/StationaryObjects/BP_CheeseWheel.uasset",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Pickups/Cheese_BP.uasset",
 				"D:/Unreal Projects/GAM305TeamRepo/GAM305BlueTeamRepo/MouseinKitchen/Content/Maps/Kitchen/Level1_map.umap"
