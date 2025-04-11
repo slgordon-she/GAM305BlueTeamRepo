@@ -1,12 +1,19 @@
 Project Assignments Log
+
 "Mouse In Kitchen"
+
 Game Version: Unreal Engine 5.3.2
 
 Blue Team: 
+
 Ryan Kendall (Team Lead) 
+
 Sherice Gordon (Programmer) 
-Charlotte Armistead (Artist) 
+
+Charlotte Armistead (Artist)
+
 Samantha Lasseigne (Level Designer/World Builder) 
+
 Roxanne Miranda (UI/UX Programmer/Designer) 
 
 The Blue Team game is named “Mouse in Kitchen”, the game is a third-person game. The main character is a mouse who lives inside of a kitchen and has figured out there is cheese somewhere in this kitchen. The mouse will have to face obstacles and enemies for some cheese. The game elements include: 
@@ -188,4 +195,4 @@ To improve the collaboration and development process the team added an extra mee
 
 When creating the plan analysis is that we had clear vision of what the game theme was going to be. The team agreed with the same artistic vision; this was discussed in our first weekly meetings. The clarity of the artistic vision was the foundation in creating decisions effectively.  The team had open communication for all team members to share any ideas, or constructive feedback to modify the artistic vision. The team also used tools such as materials and sounds to meet the artistic goals. The challenge faced is not being able to implement all artistic ideas due to time constraint or the idea was changed because it didn't align with the map. This required a lot of meetings in to making decisions into what was being implemented based on feedback.  An example of this situation is that we had first decided to have a pit fall, the map was then changed into an obstacle instead.  
 
-	One of the types of feedback we get is to add sounds into the map. This will enhance the player's environment.  This feedback was reflected on leading in to adjusting the environment and letting the player know when its shooting or when its hurt by adding sounds.  The team also took into consideration revisiting the artistic goals ensuring everything is align with the final release. The collaboration of the team could improve by having a better understanding of the roles responsibilities when it comes to the artistic vision. The team overlapping caused the team confusion which then an extra meeting was set to solve the issues.  Overall, the plan had its strengths and weakness when it came to the artistic vision, by addressing the challenges and feedback this will help the team enhance their role for future projects. 
+One of the types of feedback we get is to add sounds into the map. This will enhance the player's environment.  This feedback was reflected on leading in to adjusting the environment and letting the player know when its shooting or when its hurt by adding sounds.  The team also took into consideration revisiting the artistic goals ensuring everything is align with the final release. The collaboration of the team could improve by having a better understanding of the roles responsibilities when it comes to the artistic vision. The team overlapping caused the team confusion which then an extra meeting was set to solve the issues.  Overall, the plan had its strengths and weakness when it came to the artistic vision, by addressing the challenges and feedback this will help the team enhance their role for future projects. 
