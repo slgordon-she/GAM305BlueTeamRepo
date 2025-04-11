@@ -1,19 +1,12 @@
 Project Assignments Log
-
 "Mouse In Kitchen"
-
 Game Version: Unreal Engine 5.3.2
 
 Blue Team: 
-
 Ryan Kendall (Team Lead) 
-
 Sherice Gordon (Programmer) 
-
 Charlotte Armistead (Artist) 
-
 Samantha Lasseigne (Level Designer/World Builder) 
-
 Roxanne Miranda (UI/UX Programmer/Designer) 
 
 The Blue Team game is named “Mouse in Kitchen”, the game is a third-person game. The main character is a mouse who lives inside of a kitchen and has figured out there is cheese somewhere in this kitchen. The mouse will have to face obstacles and enemies for some cheese. The game elements include: 
